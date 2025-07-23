@@ -33,16 +33,16 @@ The dataset includes monthly aggregated Airbnb listing data spanning  from 2019 
 URL: https://www.kaggle.com/datasets/computingvictor/zillow-market-analysis-and-real-estate-sales-data?resource=download
 
 ## Dataset Details
-amenities.csv: Contains data on amenities available in Airbnb listings.
-geolocation.csv: Contains latitude and longitude coordinates of Airbnb listings.
-market_analysis.csv: Aggregated monthly data from 2020 - 2022.
-market_analysis_2019.csv: Aggregated monthly data for year 2019.
-sales_properties_92252.csv: Sales data for properties in the 92252 zip code.
-sales_properties_92284.csv: Sales data for properties in the 92284 zip code.
-sales_properties_92314.csv: Sales data for properties in the 92314 zip code.
-sales_properties_92315.csv: Sales data for properties in the 92315 zip code.
-sales_properties_pool_92252.csv: Sales data for properties with pools in the 92252 zip code.
-sales_properties_pool_92284.csv: Sales data for properties with pools in the 92284 zip code.
+- amenities.csv: Contains data on amenities available in Airbnb listings.
+- geolocation.csv: Contains latitude and longitude coordinates of Airbnb listings.
+- market_analysis.csv: Aggregated monthly data from 2020 - 2022.
+- market_analysis_2019.csv: Aggregated monthly data for year 2019.
+- sales_properties_92252.csv: Sales data for properties in the 92252 zip code.
+- sales_properties_92284.csv: Sales data for properties in the 92284 zip code.
+- sales_properties_92314.csv: Sales data for properties in the 92314 zip code.
+- sales_properties_92315.csv: Sales data for properties in the 92315 zip code.
+- sales_properties_pool_92252.csv: Sales data for properties with pools in the 92252 zip code.
+- sales_properties_pool_92284.csv: Sales data for properties with pools in the 92284 zip code.
 
 # Files
 - Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyternotebok,Excel.
