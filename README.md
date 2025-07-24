@@ -1,5 +1,7 @@
 <p align="center>
-    <img src="Airbnb logo.png" alt="Airbnb Logo" width="120">
+    <img src="Airbnb Logo" alt="Airbnb Logo" width="200">
+</p>
+
 # Airbnb Market & Real-Estate Analysis
 This project explores the Airbnb rental market and real estate trends using a combination of Excel, Python, and Power BI. It provides insights into performance KPIs, seasonal and regional trends, and host type insights to support better decision making for real estate professionals and investors.
 
