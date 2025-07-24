@@ -38,7 +38,7 @@ This project explores the Airbnb market and real estate trends using a combinati
 
 ### Explore My Work
 **Jupyter Notebook**
-[View the full data cleaning notebook here] (./Data Cleaning Board.ipynb)
+[View the full data cleaning notebook here] (./Data%20Cleaning%20Board.ipynb)
 
   
 ## Dataset Source
