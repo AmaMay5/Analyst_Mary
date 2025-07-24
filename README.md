@@ -48,7 +48,7 @@ URL: https://www.kaggle.com/datasets/computingvictor/zillow-market-analysis-and-
 - sales_properties_pool_92284.csv: Sales data for properties with pools in the 92284 zip code.
 
 # Files
-- Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyternotebok,Excel.
-- Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2, Product listings.
-- Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning,report and dashboards.
--Dashboard
+- Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyter notebook, Excel, Power BI.
+- Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2,    Product listings.
+- Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning, report and dashboards.
+
