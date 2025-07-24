@@ -3,7 +3,7 @@
 <img src="Airbnb Logo.png" alt="Airbnb Logo" width="200">
 
 
-This project explores the Airbnb rental market and real estate trends using a combination of Excel, Python, and Power BI. It provides insights into performance KPIs, seasonal and regional trends, and host type insights to support better decision making for real estate professionals and investors.
+This project explores the Airbnb market and real estate trends using a combination of Excel, Python, and Power BI. It provides insights into performance KPIs, seasonal and regional trends, and host type insights to support better decision making for real estate professionals and investors.
 
 
 ## Objectives & Analysis Questions
@@ -26,9 +26,19 @@ This project explores the Airbnb rental market and real estate trends using a co
 
 ##  Tools Used
 
-- Excel – Cleaning, pivot tables, summary stats
-- Python – Data cleaning, transformation, and merging
+- Excel – For additional formatting, column adjustments, and final touch ups
+- Python (Pandas,Numpy)– Data cleaning, transformation, and merging
 - Power BI – Interactive dashboard and data visualization
+
+## Cleaning Steps Included
+- Removing duplicate rows
+- Inspecting missing values
+- Renaming messy column headers
+- Fixing inconsistencies
+
+### Explore My Work
+**Jupyter Notebook**
+- View the full data cleaning notebook here ()
 
   
 ## Dataset Source
