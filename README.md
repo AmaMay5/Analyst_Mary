@@ -38,7 +38,16 @@ This project explores the Airbnb market and real estate trends using a combinati
 
 ### Explore My Work
 **Jupyter Notebook**
-[View the full data cleaning notebook here] (./Data%20Cleaning%20Board.ipynb)
+[View the full data cleaning notebook here](Data%20Cleaning%20Board.ipynb)
+
+**Microsoft Excek**
+[Download the cleaned Excel file](Cleaned%20Airbnb%20Dataset.xlsx)
+
+## Why Excel?
+While Python handled bulk cleaning, Excel helped me:
+- Quickly reformat cells
+- Do final column tweaks
+- Clean minor leftovers that were easier to spot visually
 
   
 ## Dataset Source
