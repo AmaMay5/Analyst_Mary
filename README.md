@@ -36,7 +36,7 @@ This project explores the Airbnb market and real estate trends using a combinati
 - Renaming messy column headers
 - Fixing inconsistencies
 
-### Explore My Work
+## Explore My Work
 **Jupyter Notebook**
 [View the full data cleaning notebook here](Data%20Cleaning%20Board.ipynb)
 
