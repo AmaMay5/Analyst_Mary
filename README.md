@@ -1,6 +1,6 @@
 
 # Airbnb Market & Real-Estate Analysis
-This project explores the Airbnb rental market and real estate trends using a combination of Excel, Python, and Power BI. It provides insights into performance KPIs, seasonal and regional trends, and host type insights to support better decisio making for real estate professionals and investors.
+This project explores the Airbnb rental market and real estate trends using a combination of Excel, Python, and Power BI. It provides insights into performance KPIs, seasonal and regional trends, and host type insights to support better decision making for real estate professionals and investors.
 
 
 ## Objectives & Analysis Questions
@@ -46,6 +46,6 @@ URL: https://www.kaggle.com/datasets/computingvictor/zillow-market-analysis-and-
 
 # Files
 - Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyternotebok,Excel.
-- Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2,    Product listings.
+- Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2, Product listings.
 - Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning,report and dashboards.
 -Dashboard
