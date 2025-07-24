@@ -1,5 +1,5 @@
 <p align="center"
-  <img src="Airbnb logo.png" alt="Project Logo" width="200"/>
+  <img src="Airbnb logo.png" alt="Airbnb  Logo" width="200"/>
 </p>
 
 # Airbnb Market & Real-Estate Analysis
