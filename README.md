@@ -37,14 +37,24 @@ This project explores the Airbnb market and real estate trends using a combinati
 - Fixing inconsistencies
 
 ## Explore My Work
-**Jupyter Notebook**
-[View the full data cleaning notebook here](Data%20Cleaning%20Board.ipynb)
 
 **Microsoft Excel**
-[Download the cleaned Excel file](Cleaned%20Airbnb%20Dataset.xlsx)
+[Download the raw dataset here](Dataset%20CSV)
+
+**Jupyter Notebook**
+[View the full data cleaning here](Data%20Cleaning%20Board.ipynb)
+
+**Microsoft Excel**
+[Download the cleaned Excel file here](Cleaned%20Airbnb%20Dataset.xlsx)
 
 **Excel Pivot Tables**
-[Download Pivot Tables](Airbnb%20Pivot%20Tables.xlsx)
+[Download Pivot Tables file here](Airbnb%20Pivot%20Tables.xlsx)
+
+**Power BI Visualization**
+[Explore Interactive Dashboards here](Airbnb%20Market%20&%20Real-Estate%20Analysis.pbix)
+
+**PowerPoint Report Presentation**
+[View Insights/Recommendations here](Powerpoint%20Report.pptx)
 
 ## Why Excel?
 While Python handled bulk cleaning, Excel helped me:
@@ -69,20 +79,8 @@ URL: https://www.kaggle.com/datasets/computingvictor/zillow-market-analysis-and-
 - sales_properties_pool_92252.csv: Sales data for properties with pools in the 92252 zip code.
 - sales_properties_pool_92284.csv: Sales data for properties with pools in the 92284 zip code.
 
-# Files
+## Files
 - Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyter notebook, Excel, Power BI.
 - Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2,    Product listings.
 - Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning,Pivot tables, report and dashboards.
-
-# How to Use
-
-## Raw Data
-- Open [Download the Raw Excel file](Dataset%20CSV) in Microsoft Excel to replicate the entire work
-
-## Data Cleaning Board
-- Open [View the full data cleaning notebook here](Data%20Cleaning%20Board.ipynb) in Jupyter Notebook or any .ipynb viewer
-- Run the cells to view each cleaning step.
-  
-## Cleaned Airbnb Dataset
-- Open
 
