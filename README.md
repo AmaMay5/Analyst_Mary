@@ -43,6 +43,9 @@ This project explores the Airbnb market and real estate trends using a combinati
 **Microsoft Excel**
 [Download the cleaned Excel file](Cleaned%20Airbnb%20Dataset.xlsx)
 
+**Excel Pivot Tables**
+[Download Pivot Tables](Airbnb%20Pivot%20Tables.xlsx)
+
 ## Why Excel?
 While Python handled bulk cleaning, Excel helped me:
 - Quickly reformat cells
@@ -69,5 +72,17 @@ URL: https://www.kaggle.com/datasets/computingvictor/zillow-market-analysis-and-
 # Files
 - Cleaned Airbnb Dataset.xlsx - CSV files converted to and cleaned using Jupyter notebook, Excel, Power BI.
 - Airbnb Market & Real-Estate Analysis Data - Four dashboards based on Market Performance, Seasonal/Regional Trends 1 and 2,    Product listings.
-- Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning, report and dashboards.
+- Airbnb Market & Real-Estate Analysis Data - Detailed Description of Data cleaning,Pivot tables, report and dashboards.
+
+# How to Use
+
+## Raw Data
+- Open [Download the Raw Excel file](Dataset%20CSV) in Microsoft Excel to replicate the entire work
+
+## Data Cleaning Board
+- Open [View the full data cleaning notebook here](Data%20Cleaning%20Board.ipynb) in Jupyter Notebook or any .ipynb viewer
+- Run the cells to view each cleaning step.
+  
+## Cleaned Airbnb Dataset
+- Open
 
